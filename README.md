@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0009-palindrome-number/) | Easy |
 | [0231-power-of-two](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0258-add-digits/) | Easy |
 | [0509-fibonacci-number](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0509-fibonacci-number/) | Easy |
