@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0507-perfect-number](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0509-fibonacci-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/2427-number-of-common-factors/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0231-power-of-two/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
