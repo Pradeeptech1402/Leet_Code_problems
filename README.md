@@ -69,10 +69,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0027-remove-element/) | Easy |
+| [0125-valid-palindrome](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0344-reverse-string/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0344-reverse-string/) | Easy |
 | [0796-rotate-string](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0796-rotate-string/) | Easy |
 ## String Matching
