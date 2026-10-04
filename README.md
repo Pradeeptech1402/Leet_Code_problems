@@ -74,4 +74,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0344-reverse-string/) | Easy |
+| [0796-rotate-string](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0796-rotate-string/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
