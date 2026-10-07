@@ -72,12 +72,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0027-remove-element/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0344-reverse-string/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0344-reverse-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0389-find-the-difference/) | Easy |
@@ -87,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0796-rotate-string](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0796-rotate-string/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -101,4 +104,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0389-find-the-difference/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
