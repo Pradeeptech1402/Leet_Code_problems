@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0009-palindrome-number/) | Easy |
 | [0231-power-of-two](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0258-add-digits/) | Easy |
+| [0268-missing-number](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0268-missing-number/) | Easy |
 | [0507-perfect-number](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0509-fibonacci-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0389-find-the-difference/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Simulation
@@ -66,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0027-remove-element/) | Easy |
+| [0268-missing-number](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0283-move-zeroes/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Two Pointers
@@ -102,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0268-missing-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0389-find-the-difference/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -114,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0389-find-the-difference/) | Easy |
 ## Z Algorithm
 | Problem Name | Difficulty |
@@ -131,4 +136,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
