@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0075-sort-colors/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0268-missing-number](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0485-max-consecutive-ones/) | Easy |
