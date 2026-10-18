@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0169-majority-element](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0268-missing-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -119,12 +121,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0169-majority-element/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0075-sort-colors/) | Medium |
+| [0169-majority-element](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0389-find-the-difference/) | Easy |
@@ -156,4 +160,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0075-sort-colors/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
