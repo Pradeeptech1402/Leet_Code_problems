@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0507-perfect-number](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0509-fibonacci-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/2413-smallest-even-multiple/) | Easy |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0485-max-consecutive-ones/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
