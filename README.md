@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0485-max-consecutive-ones/) | Easy |
+| [1470-shuffle-the-array](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/1470-shuffle-the-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/1920-build-array-from-permutation/) | Easy |
