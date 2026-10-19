@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0485-max-consecutive-ones/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0268-missing-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0389-find-the-difference/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -138,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0389-find-the-difference/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -178,4 +181,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->
