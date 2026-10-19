@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0258-add-digits/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/1920-build-array-from-permutation/) | Easy |
+| [1929-concatenation-of-array](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/1929-concatenation-of-array/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1512-number-of-good-pairs](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/1920-build-array-from-permutation/) | Easy |
+| [1929-concatenation-of-array](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/1929-concatenation-of-array/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
