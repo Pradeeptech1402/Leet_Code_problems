@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0268-missing-number/) | Easy |
+| [0415-add-strings](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0415-add-strings/) | Easy |
 | [0507-perfect-number](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0509-fibonacci-number/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0728-self-dividing-numbers/) | Easy |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0258-add-digits/) | Easy |
+| [0415-add-strings](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0415-add-strings/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/1929-concatenation-of-array/) | Easy |
 ## Number Theory
@@ -112,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0389-find-the-difference/) | Easy |
+| [0415-add-strings](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0415-add-strings/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0709-to-lower-case](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0709-to-lower-case/) | Easy |
 | [0796-rotate-string](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0796-rotate-string/) | Easy |
