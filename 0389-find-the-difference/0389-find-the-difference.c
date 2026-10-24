@@ -1,15 +1,10 @@
 char findTheDifference(char* s, char* t) {
-    int sumofT=0,sumofS=0;
-    int len=0;
-    while(t[len]!='\0'){
-        sumofT += t[len];
-        len++;
+    char res=0;
+    for(int i=0;t[i]!='\0';i++){
+         res=res^s[i];
     }
-    len=0;
-    while(s[len]!='\0'){
-        sumofS += s[len];
-        len++;
+    for(int i=0;t[i]!='\0';i++){
+         res= res^t[i];
     }
-    char diffrence=sumofT-sumofS;
-    return diffrence;
+    return res;
 }
