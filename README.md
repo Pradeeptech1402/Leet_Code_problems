@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0389-find-the-difference/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
