@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0338-counting-bits](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0338-counting-bits/) | Easy |
 | [0509-fibonacci-number](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0268-missing-number/) | Easy |
+| [0338-counting-bits](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0338-counting-bits/) | Easy |
 | [0389-find-the-difference](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/0389-find-the-difference/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Pradeeptech1402/Leet_Code_problems/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
